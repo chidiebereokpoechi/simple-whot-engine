@@ -14,12 +14,6 @@ The default rules used in this implementation are available
 npm test
 ```
 
-## Run
-
-```sh
-npm start
-```
-
 ## Frontend Application
 
 The frontend application will be in development as soon as a stable / reliable version of the game server has been developed.
